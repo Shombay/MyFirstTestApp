@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 //        setContentView(R.layout.activity_main);
         setContentView(R.layout.new_activity_main);
 
-//
+
 //        nameTV = findViewById(R.id.name_text_view);
 //        changeNameButton = findViewById(R.id.change_name_text_view);
 //
